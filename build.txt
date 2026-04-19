@@ -1,0 +1,66 @@
+[  1%] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o
+[  3%] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml.cpp.o
+[  5%] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o
+[  7%] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o
+[  9%] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o
+[ 11%] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o
+[ 13%] Building C object ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o
+[ 15%] Building CXX object ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o
+[ 17%] Linking CXX shared library libggml-base.so
+[ 17%] Built target ggml-base
+[ 19%] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o
+[ 21%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o
+[ 23%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/repack.cpp.o
+[ 25%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/hbm.cpp.o
+[ 26%] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/quants.c.o
+[ 28%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/traits.cpp.o
+[ 30%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o
+[ 32%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o
+[ 34%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o
+[ 36%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o
+[ 38%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o
+[ 40%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o
+[ 42%] Building C object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/quants.c.o
+[ 44%] Building CXX object ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/arch/arm/repack.cpp.o
+[ 46%] Linking CXX shared library libggml-cpu.so
+[ 46%] Built target ggml-cpu
+[ 48%] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-dl.cpp.o
+[ 50%] Building CXX object ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o
+[ 51%] Linking CXX shared library libggml.so
+[ 51%] Built target ggml
+[ 53%] Building CXX object src/CMakeFiles/whisper.dir/whisper.cpp.o
+[ 55%] Linking CXX shared library libwhisper.so
+[ 55%] Built target whisper
+[ 57%] Building CXX object examples/CMakeFiles/common.dir/common.cpp.o
+[ 59%] Building CXX object examples/CMakeFiles/common.dir/common-ggml.cpp.o
+[ 61%] Building CXX object examples/CMakeFiles/common.dir/common-whisper.cpp.o
+[ 63%] Building CXX object examples/CMakeFiles/common.dir/grammar-parser.cpp.o
+[ 65%] Linking CXX static library libcommon.a
+[ 65%] Built target common
+[ 67%] Building CXX object tests/CMakeFiles/test-vad.dir/test-vad.cpp.o
+[ 69%] Linking CXX executable ../bin/test-vad
+[ 69%] Built target test-vad
+[ 71%] Building CXX object tests/CMakeFiles/test-vad-full.dir/test-vad-full.cpp.o
+[ 73%] Linking CXX executable ../bin/test-vad-full
+[ 73%] Built target test-vad-full
+[ 75%] Building CXX object examples/cli/CMakeFiles/whisper-cli.dir/cli.cpp.o
+[ 76%] Linking CXX executable ../../bin/whisper-cli
+[ 76%] Built target whisper-cli
+[ 78%] Building CXX object examples/bench/CMakeFiles/whisper-bench.dir/bench.cpp.o
+[ 80%] Linking CXX executable ../../bin/whisper-bench
+[ 80%] Built target whisper-bench
+[ 82%] Building CXX object examples/server/CMakeFiles/whisper-server.dir/server.cpp.o
+[ 84%] Linking CXX executable ../../bin/whisper-server
+[ 84%] Built target whisper-server
+[ 86%] Building CXX object examples/quantize/CMakeFiles/whisper-quantize.dir/quantize.cpp.o
+[ 88%] Linking CXX executable ../../bin/whisper-quantize
+[ 88%] Built target whisper-quantize
+[ 90%] Building CXX object examples/vad-speech-segments/CMakeFiles/whisper-vad-speech-segments.dir/speech.cpp.o
+[ 92%] Linking CXX executable ../../bin/whisper-vad-speech-segments
+[ 92%] Built target whisper-vad-speech-segments
+[ 94%] Building CXX object examples/deprecation-warning/CMakeFiles/main.dir/deprecation-warning.cpp.o
+[ 96%] Linking CXX executable ../../bin/main
+[ 96%] Built target main
+[ 98%] Building CXX object examples/deprecation-warning/CMakeFiles/bench.dir/deprecation-warning.cpp.o
+[100%] Linking CXX executable ../../bin/bench
+[100%] Built target bench
