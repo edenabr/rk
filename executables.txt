@@ -1,0 +1,9 @@
+build/bin/bench
+build/bin/main
+build/bin/test-vad
+build/bin/test-vad-full
+build/bin/whisper-bench
+build/bin/whisper-cli
+build/bin/whisper-quantize
+build/bin/whisper-server
+build/bin/whisper-vad-speech-segments
